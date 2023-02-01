@@ -1,0 +1,25 @@
+{
+  "name": "v14reg",
+  "version": "1.0.0",
+  "description": "Public sunuculara özel MegaMini#9735 tarafından yapılmış 4 adet sesli karşılama botu",
+  "main": "./Structures/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MegaMini",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.5.0",
+    "ascii-table": "^0.0.9",
+    "chalk": "^2.4.1",
+    "discord-api-types": "^0.37.25",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3",
+    "util": "^0.12.5"
+  }
+}
